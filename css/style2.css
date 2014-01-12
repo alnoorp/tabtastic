@@ -1,0 +1,68 @@
+html {
+  height: 100%;
+}
+
+body {
+  height: 100%;
+}
+
+.tab-container {
+  height: 100%;
+}
+
+.shade-container {
+  height: 100%;
+}
+
+.shade {
+  background: #326773;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 0;
+  position: absolute;
+  transition: 1s;
+}
+
+.shade-handle {
+  border-top: 100px solid #326773;
+  border-left: 40px solid transparent;
+  border-right: 40px solid transparent;
+  width: 200px;
+  border-bottom-right-radius: 5em 5em;
+  border-bottom-left-radius: 5em 5em;
+  position: absolute;
+  height: 0;
+  top: 0;
+  transition: 1s;
+}
+
+.pos_1 {
+  left: 0%;
+}
+
+.pos_2 {
+  border-top-color: #568C87;
+  left: 20%;
+}
+
+.page_2 {
+  background: #568C87;
+}
+
+.bottom {
+  height: 85%;
+}
+
+.tab_bottom {
+  top: 85%;
+}
+
+.top {
+  position: absolute;
+  z-index: 99999;
+}
+
+.visible {
+
+}
