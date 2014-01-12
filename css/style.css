@@ -27,7 +27,7 @@ iframe {
 }
 
 .image {
-  padding: 5% 5% 5% 0%;
+  padding: 0% 5% 5% 0%;
   width: 25%;
   display: inline-block;
 }
@@ -144,9 +144,10 @@ iframe {
 
 .tab_bottom {
   top: 90%;
+  z-index: 9999;
 }
 
 .top {
   position: absolute;
-  z-index: 99999;
+  z-index: 9999;
 }
