@@ -8,9 +8,13 @@ body {
 
 .main {
   padding-top: 2em;
-  padding-left: 1em;
   font-size: 2em;
   color: #CCC;
+  text-align: center;
+}
+
+.button {
+  text-align: center;
 }
 
 .tab-container {
