@@ -6,6 +6,13 @@ body {
   height: 100%;
 }
 
+.main {
+  padding-top: 2em;
+  padding-left: 1em;
+  font-size: 2em;
+  color: #CCC;
+}
+
 .tab-container {
   height: 100%;
 }
