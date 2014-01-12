@@ -1,4 +1,4 @@
 tabtastic
 =========
 
-{% img center size /img/tabtastic_screenshot.png 'Tabtastic' 'Tabtastic' %}
+![Tabtastic](/img/tabtastic_screenshot.png "Tabtastic")
