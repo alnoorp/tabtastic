@@ -4,6 +4,7 @@ html {
 
 body {
   height: 100%;
+  background: #EFEFEF;
 }
 
 .main {
@@ -15,6 +16,16 @@ body {
 
 .button {
   text-align: center;
+}
+
+.heading {
+  font-size: 3em;
+}
+
+.image {
+  padding: 5% 5% 5% 0%;
+  width: 25%;
+  display: inline-block;
 }
 
 .tab-container {
@@ -39,6 +50,10 @@ body {
 
 .shade-content {
   padding: 10%;
+}
+
+.center {
+  text-align: center;
 }
 
 .shade-handle {
