@@ -7,6 +7,10 @@ body {
   background: #EFEFEF;
 }
 
+iframe {
+  margin-right: -6%;
+}
+
 .main {
   padding-top: 2em;
   font-size: 2em;
